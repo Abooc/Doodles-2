@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_prod">Doodles</string>
+    <string name="app_name_beta">Doodles测试版</string>
+    <string name="app_name_alpha">Doodles内测版</string>
+</resources>

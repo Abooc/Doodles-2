@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="app_name_prod">Wikipedia</string>
+    <string name="app_name_beta">Wikipedia Beta</string>
+    <string name="app_name_alpha">Wikipedia Alpha</string>
+</resources>
